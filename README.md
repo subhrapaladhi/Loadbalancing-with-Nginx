@@ -6,7 +6,7 @@
 
 # Layer 7 Loadbalancing
 
-## [nginx.conf](./Layer_7_Loadbalancing/nginx.conf)
+## [nginx.conf](./Layer_7_Loadbalancing/http.conf)
 
 ## Instructions
 1. create the docker image for the node app and start the required number of containers.
